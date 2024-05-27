@@ -22,3 +22,12 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/.idea/restful_api.iml
+/.idea/vcs.xml
+/SpringbootDemo/.idea/uiDesigner.xml
+/SpringbootDemo/.idea/SpringbootDemo.iml
+/SpringbootDemo/demo/mvnw.cmd
+/SpringbootDemo/demo/mvnw
+/SpringbootDemo/.idea/modules.xml
+/SpringbootDemo/.idea/misc.xml
+/.idea/misc.xml
